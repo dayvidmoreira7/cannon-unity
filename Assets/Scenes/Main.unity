@@ -542,6 +542,17 @@ Prefab:
       propertyPath: mexe
       value: 
       objectReference: {fileID: 89038362}
+    - target: {fileID: 114456680688764168, guid: 532fdf9398c1f1c4a8415a6adff11d4b,
+        type: 2}
+      propertyPath: sound
+      value: 
+      objectReference: {fileID: 1558113465907244, guid: 3e8d3606d837912418b7376a4724a922,
+        type: 2}
+    - target: {fileID: 114456680688764168, guid: 532fdf9398c1f1c4a8415a6adff11d4b,
+        type: 2}
+      propertyPath: se
+      value: 
+      objectReference: {fileID: 8300000, guid: 0909a7925d441744387d55920dc34646, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 532fdf9398c1f1c4a8415a6adff11d4b, type: 2}
   m_IsPrefabParent: 0
